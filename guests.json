@@ -1,7 +1,0 @@
-[
-  { "name": "John Smith", "max_guests": 2 },
-  { "name": "Reema Afana", "max_guests": 1 },
-  { "name": "Ahmed Alagha", "max_guests": 7 },
-  { "name": "Ahmad Hammoud", "max_guests": 4 },
-  { "name": "Ali Alagha", "max_guests": 2 }
-]
