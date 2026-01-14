@@ -144,6 +144,13 @@ async function main() {
       setText("status", "Please enter your name.");
       return;
     }
+    const wordCount = norm(q).split(" ").filter(Boolean).length;
+    if (wordCount < 2) {
+      setText("status", "Please enter your full name (first and last).");
+      document.getElementById("matchBox").classList.add("hidden");
+      currentMatch = null;
+      return;
+    }
 
     const { best, bestScore } = findBestMatch(q);
 
