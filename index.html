@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>RSVP</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="container">
+    <h1>RSVP</h1>
+    <p class="subtitle">Please search your name, then confirm your attendance.</p>
+
+    <section class="card">
+      <label class="label" for="nameInput">Your name</label>
+      <input id="nameInput" class="input" type="text" placeholder="Type your full name..." autocomplete="name" />
+
+      <div class="row">
+        <button id="searchBtn" class="btn" type="button">Search</button>
+        <span id="status" class="status"></span>
+      </div>
+
+      <div id="matchBox" class="matchBox hidden">
+        <div class="matchLine">
+          <div>
+            <div class="matchTitle">Is this you?</div>
+            <div id="matchedName" class="matchName"></div>
+            <div class="hint">If not, please re-enter your name correctly.</div>
+          </div>
+          <div class="pill">
+            Max guests: <strong id="maxGuests"></strong>
+          </div>
+        </div>
+
+        <hr class="sep"/>
+
+        <div class="grid">
+          <div>
+            <label class="label">Attending?</label>
+            <div class="toggle">
+              <label><input type="radio" name="attending" value="yes" checked /> Yes</label>
+              <label><input type="radio" name="attending" value="no" /> No</label>
+            </div>
+          </div>
+
+          <div>
+            <label class="label" for="guestCount">Number of guests (including you)</label>
+            <input id="guestCount" class="input" type="number" min="1" value="1" />
+            <div id="guestHint" class="hint"></div>
+          </div>
+
+          <div class="full">
+            <label class="label" for="notes">Notes (optional)</label>
+            <textarea id="notes" class="textarea" rows="3" placeholder="Dietary restrictions, song suggestions, etc."></textarea>
+          </div>
+
+          <div class="full row">
+            <button id="submitBtn" class="btn primary" type="button">Submit RSVP</button>
+            <span id="submitStatus" class="status"></span>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="rsvp.js"></script>
+</body>
+</html>
