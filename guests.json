@@ -77,11 +77,11 @@
   },
   {
     "name": "Ahmad Kaware",
-    "max_guests": 4
+    "max_guests": 2
   },
   {
     "name": "Hedaia Abushaqra",
-    "max_guests": 3
+    "max_guests": 2
   },
   {
     "name": "Noor Aljbor",
@@ -208,3 +208,4 @@
     "max_guests": 5
   }
 ]
+
