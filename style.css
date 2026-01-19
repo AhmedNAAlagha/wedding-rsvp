@@ -58,6 +58,7 @@ h1{margin:6px 0 6px; font-size:32px;}
 }
 .btn.primary{background:#000;}
 .status{color:var(--muted); font-size:14px;}
+.status.error{color:#c02c1d; font-weight:650;}
 .hidden{display:none;}
 
 .matchBox{
@@ -87,6 +88,17 @@ h1{margin:6px 0 6px; font-size:32px;}
   grid-template-columns: 1fr 1fr;
   gap:12px;
 }
+.optionsList{display:flex; flex-direction:column; gap:10px; margin-top:10px;}
+.optionBtn{
+  text-align:left;
+  border:1px solid var(--border);
+  background:#fff;
+  padding:10px 12px;
+  border-radius:12px;
+  cursor:pointer;
+  font-weight:600;
+}
+.optionBtn:hover{border-color:#000;}
 .full{grid-column: 1 / -1;}
 .toggle{display:flex; gap:14px; align-items:center;}
 .hint{margin-top:6px; color:var(--muted); font-size:13px;}
