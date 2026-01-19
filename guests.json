@@ -77,11 +77,11 @@
   },
   {
     "name": "Ahmad Kaware",
-    "max_guests": 2
+    "max_guests": 4
   },
   {
     "name": "Hedaia Abushaqra",
-    "max_guests": 2
+    "max_guests": 3
   },
   {
     "name": "Noor Aljbor",
@@ -106,6 +106,10 @@
   {
     "name": "Ahmed Abed Alagha",
     "max_guests": 4
+  },
+  {
+    "name": "Yasin Alastal",
+    "max_guests": 1
   },
   {
     "name": "Abdelhamid Afana",
@@ -152,7 +156,7 @@
     "max_guests": 2
   },
   {
-    "name": "Fathi Afana",
+    "name": "Fathy Afana",
     "max_guests": 4
   },
   {
@@ -160,7 +164,7 @@
     "max_guests": 2
   },
   {
-    "name": "Mohammed Afana",
+    "name": "Mohamed Afana",
     "max_guests": 2
   },
   {
@@ -208,4 +212,5 @@
     "max_guests": 5
   }
 ]
+
 
