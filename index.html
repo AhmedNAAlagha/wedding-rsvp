@@ -20,6 +20,11 @@
         <span id="status" class="status"></span>
       </div>
 
+      <div id="optionsBox" class="matchBox hidden">
+        <div class="matchTitle">We found more than one person with that name. Please choose yours:</div>
+        <div id="optionsList" class="optionsList"></div>
+      </div>
+
       <div id="matchBox" class="matchBox hidden">
         <div class="matchLine">
           <div>
@@ -47,6 +52,12 @@
             <label class="label" for="guestCount">Number of guests (including you)</label>
             <input id="guestCount" class="input" type="number" min="1" value="1" />
             <div id="guestHint" class="hint"></div>
+          </div>
+
+          <div class="full">
+            <label class="label" for="email">Email</label>
+            <input id="email" class="input" type="email" placeholder="you@example.com" autocomplete="email" inputmode="email" />
+            <div class="hint">Required so we can confirm your RSVP.</div>
           </div>
 
           <div class="full">
