@@ -129,7 +129,7 @@
   },
   {
     "name": "Zaina Alshawa",
-    "max_guests": 2
+    "max_guests": 4
   },
   {
     "name": "Mohammed Minato",
@@ -153,7 +153,7 @@
   },
   {
     "name": "Ayman ElBoheisy",
-    "max_guests": 2
+    "max_guests": 3
   },
   {
     "name": "Fathy Afana",
@@ -193,7 +193,7 @@
   },
   {
     "name": "Moatassim Afana",
-    "max_guests": 3
+    "max_guests": 4
   },
   {
     "name": "Wassfi Afana",
@@ -208,9 +208,26 @@
     "max_guests": 2
   },
   {
+    "name": "Fatima Abbas",
+    "max_guests": s
+  },
+  {
+    "name": "Basil Abdelhadi",
+    "max_guests": 4
+  },
+  {
+    "name": "Naim Afana",
+    "max_guests": 4
+  },
+  {
+    "name": "Akram Afana",
+    "max_guests": 1
+  },
+  {
     "name": "Serena Elogeil",
     "max_guests": 5
   }
 ]
+
 
 
