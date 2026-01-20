@@ -224,10 +224,23 @@
     "max_guests": 1
   },
   {
+    "name": "Tina Badran",
+    "max_guests": 2
+  },
+  {
+    "name": "Lara Karraz",
+    "max_guests": 2
+  },
+  {
+    "name": "Snayha Patel",
+    "max_guests": 2
+  },
+  {
     "name": "Serena Elogeil",
     "max_guests": 5
   }
 ]
+
 
 
 
