@@ -113,15 +113,39 @@
   },
   {
     "name": "Abdelhamid Afana",
-    "max_guests": 3
+    "max_guests": 2
+  },
+  {
+    "name": "Jubourrr Afana",
+    "max_guests": 1
+  },
+  {
+    "name": "Reema Afana",
+    "max_guests": 1
   },
   {
     "name": "Rana Afana",
     "max_guests": 2
   },
   {
+    "name": "Tala Alshawa",
+    "max_guests": 1
+  },
+  {
+    "name": "Zayn Alshawa",
+    "max_guests": 1
+  },
+  {
     "name": "Shadi Afana",
     "max_guests": 2
+  },
+  {
+    "name": "Adam Afana",
+    "max_guests": 1
+  },
+  {
+    "name": "Rayan Afana",
+    "max_guests": 1
   },
   {
     "name": "Hassan Alshawa",
@@ -248,6 +272,7 @@
     "max_guests": 5
   }
 ]
+
 
 
 
