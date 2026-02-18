@@ -64,6 +64,14 @@
     "max_guests": 3
   },
   {
+    "name": "Ahmad Hammoud",
+    "max_guests": 1
+  },
+  {
+    "name": "Mouhamad Arafeh",
+    "max_guests": 1
+  },
+  {
     "name": "Raghad elsaleh",
     "max_guests": 1
   },
@@ -280,6 +288,7 @@
     "max_guests": 5
   }
 ]
+
 
 
 
