@@ -4,8 +4,12 @@
     "max_guests": 6
   },
   {
-    "name": "Ebtesam Abushakra",
+    "name": "Ashraf Shurrab",
     "max_guests": 7
+  },
+  {
+    "name": "Bassam Abushaqra",
+    "max_guests": 5
   },
   {
     "name": "Samar Abushaqra",
@@ -272,6 +276,7 @@
     "max_guests": 5
   }
 ]
+
 
 
 
