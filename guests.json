@@ -56,6 +56,10 @@
     "max_guests": 5
   },
   {
+    "name": "Azzam Mourad",
+    "max_guests": 4
+  },
+  {
     "name": "Jamal Bentahar",
     "max_guests": 3
   },
@@ -276,6 +280,7 @@
     "max_guests": 5
   }
 ]
+
 
 
 
