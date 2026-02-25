@@ -221,11 +221,11 @@
   },
   {
     "name": "Wafa Afana",
-    "max_guests": 3
+    "max_guests": 2
   },
   {
     "name": "Rajai Afana",
-    "max_guests": 2
+    "max_guests": 3
   },
   {
     "name": "Alaa Afana",
@@ -237,7 +237,7 @@
   },
   {
     "name": "Wassfi Afana",
-    "max_guests": 1
+    "max_guests": 2
   },
   {
     "name": "Wedad Ali",
@@ -286,8 +286,13 @@
   {
     "name": "Serena Elogeil",
     "max_guests": 5
+  },
+  {
+    "name": "Om Shadi's Guests",
+    "max_guests": 6
   }
 ]
+
 
 
 
